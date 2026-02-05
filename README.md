@@ -33,4 +33,4 @@ A diferencia de otras herramientas que solo encuentran fallos (como un escáner 
 - Apache Tomcat
 
 ## Documentación del Proyecto
- - Ver Reporte Técnico: Laboratorio Metasploit](https://github.com/emmanueldjr/Metasploit/blob/main/labmetasploid.pdf)
+ - <a href="https://github.com/emmanueldjr/Metasploit/blob/main/labmetasploid.pdf">Ver Reporte Técnico: Laboratorio Metasploit</a>
