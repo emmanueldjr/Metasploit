@@ -36,4 +36,5 @@ A diferencia de otras herramientas que solo encuentran fallos (como un escáner 
 [![Ver Reporte Técnico](https://img.shields.io/badge/Ver_Reporte-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/emmanueldjr/Metasploit/blob/main/labmetasploid.pdf)
 
 > [!NOTE]
-> Puedes visualizar el informe completo haciendo clic en el botón superior o accediendo directamente a través del siguiente enlace: [Reporte Técnico: Lab Metasploit](https://github.com/emmanueldjr/Metasploit/blob/main/labmetasploid.pdf)
+> Puedes visualizar el informe completo haciendo clic en el botón superior o accediendo directamente a través del siguiente enlace:
+> [Reporte Técnico: Lab Metasploit](https://github.com/emmanueldjr/Metasploit/blob/main/labmetasploid.pdf)
