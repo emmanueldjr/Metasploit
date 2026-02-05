@@ -33,5 +33,7 @@ A diferencia de otras herramientas que solo encuentran fallos (como un escáner 
 - Apache Tomcat
 
 ## Documentación del Proyecto
-[![Ver Reporte Técnico](https://img.shields.io/badge/Ver_Reporte-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](Metasploit/blob/main/labmetasploid.pdf)
+[![Ver Reporte Técnico](https://img.shields.io/badge/Ver_Reporte-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/emmanueldjr/Metasploit/blob/main/labmetasploid.pdf)
  - <a href="https://github.com/emmanueldjr/Metasploit/blob/main/labmetasploid.pdf">Ver Reporte Técnico: Laboratorio Metasploit</a>
+
+https://github.com/emmanueldjr/Metasploit/blob/main/labmetasploid.pdf
